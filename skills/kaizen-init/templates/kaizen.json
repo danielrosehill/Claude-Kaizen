@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "kaizen_dir": "__KAIZEN_DIR__",
+  "initialised": "__DATE__",
+  "verify_command": null,
+  "baseline": null,
+  "passes": [],
+  "next_item_id": 1,
+  "next_pass_id": 0
+}

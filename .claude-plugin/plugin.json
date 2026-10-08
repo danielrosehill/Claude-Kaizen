@@ -1,0 +1,12 @@
+{
+  "name": "kaizen",
+  "version": "0.1.0",
+  "description": "Kaizen for mature codebases: triage improvements into atomic units, ship them one commit at a time, and track each pass against the last.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Kaizen",
+  "license": "MIT",
+  "keywords": ["kaizen", "continuous-improvement", "refactoring", "code-quality", "backlog", "atomic-commits"]
+}
