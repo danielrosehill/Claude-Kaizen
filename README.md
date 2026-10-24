@@ -7,6 +7,9 @@ a mature, working project slightly better â€” clearer, faster, safer to change â
 small step at a time. This plugin gives Claude Code the structure and the discipline
 to do that predictably.
 
+For projects that aren't code (a job hunt, a move, a book), see the sibling plugin
+[`kaizen-please`](https://github.com/danielrosehill/Kaizen-Please).
+
 ## The discipline
 
 Every improvement is broken into **atomic units** before any of it is implemented, and
